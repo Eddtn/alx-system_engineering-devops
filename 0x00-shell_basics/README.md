@@ -1,1 +1,1 @@
-displaying the content list of working file
+a script that changes the working directory to user home directory
