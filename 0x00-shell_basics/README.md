@@ -1,1 +1,1 @@
-displaying current working directory content in a long format
+displaying directory content amd hidden files
