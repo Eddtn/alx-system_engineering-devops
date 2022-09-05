@@ -1,1 +1,1 @@
-Write a script that displays the third line of the file iacta and The file iacta will be in the working directory
+Write a shell script that creates a file named exactly stated in the task and must  containing the text Best School ending by a new line
