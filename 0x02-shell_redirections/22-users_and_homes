@@ -1,0 +1,1 @@
+sort /etc/passwd/ | cut -cd':' -f 1,6
